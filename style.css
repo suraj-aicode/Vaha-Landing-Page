@@ -130,7 +130,7 @@
     .left-panel {
       flex: 1;
       background: /* linear-gradient(rgba(14, 42, 47, 0.8), rgba(14, 42, 47, 0.8)), */ 
-                  url('W6.png') no-repeat center center/cover;
+                  url('/Image/W6.png') no-repeat center center/cover;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -242,7 +242,7 @@
     .left2-panel {
       flex: 1;
       background: /* linear-gradient(rgba(14, 42, 47, 0.8), rgba(14, 42, 47, 0.8)),*/ 
-                  url('Gemini_Generated_Image_8o8ans8o8ans8o8a.png') no-repeat center center/cover;
+                  url('/Image/W7.png') no-repeat center center/cover;
       display: flex;
       flex-direction: column;
       justify-content: center;
