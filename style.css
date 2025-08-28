@@ -142,11 +142,11 @@ header {
 }
 
 .left-panel {
-  background: url('/Vaha-Landing-Page-main/Image/W6.png') no-repeat center center/cover;
+  background: url('/Image/W6.png') no-repeat center center/cover;
 }
 
 .left2-panel {
-  background: url('/Vaha-Landing-Page-main/Image/W7.png') no-repeat center center/cover;
+  background: url('/Image/W7.png') no-repeat center center/cover;
 }
 
 .deliver-text {
@@ -454,3 +454,4 @@ a:hover {
 .fade-in {
   animation: fadeIn 1s ease-in;
 }
+
