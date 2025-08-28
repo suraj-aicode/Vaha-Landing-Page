@@ -30,29 +30,36 @@
     const marathiTexts = {
       // Hero Section
       heroTitle: "ETI डायनॅमिक्स बद्दल",
-      heroSubtitle: "नाविन्य आणि तंत्रज्ञानाद्वारे उद्याच्या दिवसासाठी शाश्वत उपाय",
-      
+      heroSubtitle:
+        "नाविन्य आणि तंत्रज्ञानाद्वारे उद्याच्या दिवसासाठी शाश्वत उपाय",
+
       // Our Story Section
       storyTitle: "आमची गोष्ट",
-      storyDescription: "पर्यावरणीय शाश्वततेच्या क्षेत्रात बदल घडवून आणण्याच्या दृष्टीकोनातून ETI डायनॅमिक्सची स्थापना करण्यात आली.",
-      
+      storyDescription:
+        "पर्यावरणीय शाश्वततेच्या क्षेत्रात बदल घडवून आणण्याच्या दृष्टीकोनातून ETI डायनॅमिक्सची स्थापना करण्यात आली.",
+
       // Card 1
       card1Title: "आमची सुरुवात",
-      card1Content: "२०१० मध्ये स्थापन झालेली ETI डायनॅमिक्स एका छोट्या पर्यावरणप्रेमी टीमसह सुरू झाली ज्यांना सर्वांसाठी शाश्वतता प्राप्त करण्याचा मोठा स्वप्न होता.",
-      
+      card1Content:
+        "२०१० मध्ये स्थापन झालेली ETI डायनॅमिक्स एका छोट्या पर्यावरणप्रेमी टीमसह सुरू झाली ज्यांना सर्वांसाठी शाश्वतता प्राप्त करण्याचा मोठा स्वप्न होता.",
+
       // Card 2
       card2Title: "आमची वाढ",
-      card2Content: "रणनीतिक भागीदारी आणि नाविन्यपूर्ण प्रकल्पांद्वारे आम्ही चार खंडांमध्ये आमच्या कार्याचा विस्तार केला आहे आणि ५०हून अधिक यशस्वी अंमलबजावणी केली आहे.",
-      
+      card2Content:
+        "रणनीतिक भागीदारी आणि नाविन्यपूर्ण प्रकल्पांद्वारे आम्ही चार खंडांमध्ये आमच्या कार्याचा विस्तार केला आहे आणि ५०हून अधिक यशस्वी अंमलबजावणी केली आहे.",
+
       // Card 3
       card3Title: "आमचे भविष्य",
-      card3Content: "समुदाय त्यांच्या पर्यावरणाशी कसे संवाद साधतात हे पुनर्परिभाषित करणारी नवीन पिढीची शाश्वत तंत्रज्ञान विकसित करण्यासाठी आम्ही वचनबद्ध आहोत.",
-      
+      card3Content:
+        "समुदाय त्यांच्या पर्यावरणाशी कसे संवाद साधतात हे पुनर्परिभाषित करणारी नवीन पिढीची शाश्वत तंत्रज्ञान विकसित करण्यासाठी आम्ही वचनबद्ध आहोत.",
+
       // Mission Section
       missionTitle: "आमचे ध्येय आणि दृष्टी",
-      missionContent1: "ETI डायनॅमिक्समध्ये, आमचा विश्वास आहे की शाश्वतता विलासिता नसून प्रत्येक समुदायाचा मूलभूत पैलू असावा. आमचे ध्येय असे नाविन्यपूर्ण पर्यावरणीय उपाय विकसित करणे आणि लागू करणे आहे जे आर्थिकदृष्ट्या व्यवहार्य आणि पर्यावरणीयदृष्ट्या जबाबदार आहेत.",
-      missionContent2: "आम्ही अशा जगाची कल्पना करतो जिथे शाश्वत पद्धती दैनंदिन जीवनात सहजतेने एकत्रित केल्या जातात, मानवी विकास आणि पर्यावरण संरक्षण यांच्यात समतोल निर्माण करतात.",
-      
+      missionContent1:
+        "ETI डायनॅमिक्समध्ये, आमचा विश्वास आहे की शाश्वतता विलासिता नसून प्रत्येक समुदायाचा मूलभूत पैलू असावा. आमचे ध्येय असे नाविन्यपूर्ण पर्यावरणीय उपाय विकसित करणे आणि लागू करणे आहे जे आर्थिकदृष्ट्या व्यवहार्य आणि पर्यावरणीयदृष्ट्या जबाबदार आहेत.",
+      missionContent2:
+        "आम्ही अशा जगाची कल्पना करतो जिथे शाश्वत पद्धती दैनंदिन जीवनात सहजतेने एकत्रित केल्या जातात, मानवी विकास आणि पर्यावरण संरक्षण यांच्यात समतोल निर्माण करतात.",
+
       // Stats
       stat1Number: "५०+",
       stat1Label: "प्रकल्प",
@@ -62,31 +69,33 @@
       stat3Label: "तज्ञ",
       stat4Number: "१.५ कोटी+",
       stat4Label: "प्रभावित जीवन",
-      
+
       // Team Section
       teamTitle: "आमचे नेतृत्व परिचय",
-      teamDescription: "आमच्या मिशनला पुढे नेणाऱ्या तज्ञ आणि उत्साही लोकांची मंडळी",
-      
+      teamDescription:
+        "आमच्या मिशनला पुढे नेणाऱ्या तज्ञ आणि उत्साही लोकांची मंडळी",
+
       // Team Members
-      member1Name: "डॉ. राजेश कुमार",
+      member1Name: "जयदीप शेळके",
       member1Position: "संस्थापक आणि मुख्य कार्यकारी अधिकारी",
       member1Bio: "पर्यावरण अभियांत्रिकीत पीएचडी आणि २५+ वर्षांचा अनुभव",
-      
-      member2Name: "प्रिया शर्मा",
+
+      member2Name: "मीरक सुब्बा",
       member2Position: "मुख्य तंत्रज्ञान अधिकारी",
       member2Bio: "नूतन ऊर्जा प्रणाली आणि स्मार्ट ग्रीडमधील तज्ञ",
-      
-      member3Name: "अमित पटेल",
+
+      member3Name: "रंजन चौधरी",
       member3Position: "ऑपरेशन्स संचालक",
       member3Bio: "मोठ्या प्रमाणात शाश्वतता अंमलबजावणीतील तज्ञ",
-      
-      member4Name: "नेहा गुप्ता",
+
+      member4Name: "अमोल शिंदे",
       member4Position: "संशोधन प्रमुख",
       member4Bio: "शाश्वत शेतीमधील आमच्या नाविन्याचे नेतृत्व",
-      
+
       // Footer
       footerAbout: "ETI डायनॅमिक्स",
-      footerDesc: "नाविन्य आणि तंत्रज्ञानाद्वारे उद्याच्या दिवसासाठी शाश्वत उपाय तयार करणे.",
+      footerDesc:
+        "नाविन्य आणि तंत्रज्ञानाद्वारे उद्याच्या दिवसासाठी शाश्वत उपाय तयार करणे.",
       quickLinks: "द्रुत दुवे",
       contactLink: "आमच्याशी संपर्क साधा",
       careersLink: "करिअर",
@@ -100,7 +109,7 @@
       cookiesLink: "कुकीज",
       copyrightText: "© २०२५ ETI डायनॅमिक्स. सर्व हक्क राखीव.",
       toggleButton: "English",
-      backToTopText: "वर जा"
+      backToTopText: "वर जा",
     };
 
     // English texts (original)
@@ -145,19 +154,19 @@
       teamDescription: "The brilliant minds driving our mission forward with expertise and passion",
       
       // Team Members
-      member1Name: "Dr. Rajesh Kumar",
+      member1Name: "Jaydip Shelke",
       member1Position: "Founder & CEO",
       member1Bio: "PhD in Environmental Engineering with 25+ years of experience",
       
-      member2Name: "Priya Sharma",
+      member2Name: "Meerak Subba",
       member2Position: "Chief Technology Officer",
       member2Bio: "Specialist in renewable energy systems and smart grids",
       
-      member3Name: "Amit Patel",
+      member3Name: "Ranjan Choudhury",
       member3Position: "Director of Operations",
       member3Bio: "Expert in large-scale sustainability implementations",
       
-      member4Name: "Neha Gupta",
+      member4Name: "Amol Shinde",
       member4Position: "Head of Research",
       member4Bio: "Leading our innovation in sustainable agriculture",
       
