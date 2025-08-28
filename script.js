@@ -180,3 +180,14 @@ window.addEventListener("scroll", function () {
 document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("backToTop").style.display = "none";
 });
+
+// Mobile menu toggle
+document.getElementById("menuToggle").addEventListener("click", () => {
+  document.querySelector(".nav-links").classList.toggle("active");
+});
+
+// Back to top smooth scroll
+document.getElementById("backToTop")?.addEventListener("click", (e) => {
+  e.preventDefault();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
